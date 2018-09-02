@@ -1,0 +1,1 @@
+export default ({ isInSingleQuote, isInDoubleQuote }) => isInSingleQuote || isInDoubleQuote
